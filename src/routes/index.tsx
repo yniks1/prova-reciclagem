@@ -20,7 +20,7 @@ type Question = {
 
 const QUESTIONS: Question[] = [
   {
-    prompt: "1 - Cálculo de Excedente:\n\n|Rota total: 650km\n| Plano do cliente: 400km\n | Tipo do veículo: LEVE\n| Valor médio do km excedente: R$3,50\n\n| Qual será o valor de excedente gerado para o associado?",
+    prompt: "1 - Cálculo de Excedente:\n\n| Rota total: 650km\n| Plano do cliente: 400km\n | Tipo do veículo: LEVE\n| Valor médio do km excedente: R$3,50\n\n| Qual será o valor de excedente gerado para o associado?",
     options: [
       "R$1.400,00",
       "R$525,00",
